@@ -1,0 +1,24 @@
+#distance km
+distance_mm_trans: 0.3
+distance_bm_trans: 0.2
+
+#velocity km / min
+velocity_metro: 1.0
+velocity_bus: 0.4
+velocity_feet: 0.083
+
+#time min
+time_mm_go: 2.0
+time_bb_go: 1.0
+time_mm_trans: 5.0
+time_bb_trans: 5.0
+time_mb_trans: 9.0
+time_bm_trans: 8.0
+
+#cost <coefficient>
+cost_mm_go: 2.0
+cost_bb_go: 0.01
+cost_mm_trans: 0.0
+cost_bb_trans: 1.0
+cost_mb_trans: 1.0
+cost_bm_trans: 0.0
